@@ -2,4 +2,4 @@
 
 ### Задача №1. Максимальное покрытие
 
-![MainKt_JaCoCo](img\VK_Pay_Test_JaCoCo.png)
+![alt text](img\image.png)
