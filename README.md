@@ -2,4 +2,4 @@
 
 ### Задача №1. Максимальное покрытие
 
-![alt text](img\image.png)
+![MainKt](img/image.png)
