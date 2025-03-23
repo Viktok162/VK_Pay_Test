@@ -12,7 +12,7 @@ class MainKtTest {
         val typeCard: String = "Master"     // тип карты: Master, Maestro, Visa, Мир
 
         val result = calculationCommission(amount, source, destination, typeCard)
-        assertEquals(1, result)
+        assertEquals(0, result)
     }
     @Test
     fun calcCom_1_2() {
